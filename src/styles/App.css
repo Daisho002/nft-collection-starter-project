@@ -89,6 +89,11 @@
   font-weight: bold;
 }
 
+.RaribleUrl {
+  color:rgb(32, 129, 226);
+  height: 500px;
+}
+
 /* KeyFrames */
 @-webkit-keyframes gradient-animation {
   0% {
